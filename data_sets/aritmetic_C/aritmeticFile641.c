@@ -1,6 +1,0 @@
-#include <stdio.h>
-int main(){
- int a=0;
-a = 81 - 74 + 46 - 97 - 5;
-printf(" a = %d",a);
-}
